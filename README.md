@@ -9,9 +9,9 @@ This egg automatically downloads a .jar file from a GitHub repository and runs i
 Great for server owners who want to spice up their console with dynamic messages — no manual setup needed! (for now support only my motd link, custom link in future)
 
 ### 🎨 Functions
-- **Automatically downloads the latest .jar file from GitHub on setup
-- **Fetches and displays a dynamic MOTD (Message of the Day) from your GitHub repo
-- **Works seamlessly inside Pterodactyl Docker containers — no manual setup required
+- **Automatically downloads the latest .jar file from GitHub on setup**
+- **Fetches and displays a dynamic MOTD (Message of the Day) from your GitHub repo**
+- **Works seamlessly inside Pterodactyl Docker containers — no manual setup required**
 
 ### 🛠 Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
